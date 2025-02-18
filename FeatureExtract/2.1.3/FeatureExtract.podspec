@@ -25,7 +25,7 @@ TODO: Add long description of the pod here.
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'frankdlink' => 'frank@dlink.cloud' }
-  s.source          = { :http => "https://deeplink-dev-ios.s3.ap-southeast-1.amazonaws.com/ios-frameworks/FeatureExtract/2.1.2/FeatureExtract.xcframework.zip" }
+  s.source          = { :http => "https://deeplink-dev-ios.s3.ap-southeast-1.amazonaws.com/ios-frameworks/FeatureExtract/2.1.3/FeatureExtract.xcframework.zip" }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '13.0'
